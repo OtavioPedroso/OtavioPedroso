@@ -1,9 +1,12 @@
-☂️ Prazer, me chamo Otávio Augusto.☂️
+☔ Prazer, me chamo Otávio Augusto.☔
 
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
-  <a href="https://github.com/OtavioPedroso">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioPedroso&layout=compact&langs_count=7&theme=cobalt"/>
+    <a href="https://www.linkedin.com/in/otaviopdroso/"><i class="devicon-linkedin-plain"></i></a>
+    
 </div>
+  
+  
   
   
 
